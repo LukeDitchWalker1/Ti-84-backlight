@@ -8,7 +8,7 @@ The items I bought from amazon can be found here:<br />
 * [Charging Board](https://a.co/d/0eiYJqfe)
 * [Boost Converter](https://a.co/d/0gWq0Xsg)
 * [Mosfet](https://a.co/d/0cMM2mvF)
-* [BMS Board](https://a.co/d/03vc9Rpq)
+* [BMS Board](https://a.co/d/03vc9Rpq)<br />
 The items I bought from Handheld Legend can be found here:
 * [Sega Game Gear Backlight](https://handheldlegend.com/collections/sega-game-gear-displays/products/game-gear-backlight-replacement)
 * [Polarizer Film](https://handheldlegend.com/products/polarization-film?_pos=1&_sid=d9096d248&_ss=r&variant=39266442150022)
