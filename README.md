@@ -14,3 +14,8 @@ The items I bought from Handheld Legend can be found here:
 * [Polarizer Film](https://handheldlegend.com/products/polarization-film?_pos=1&_sid=d9096d248&_ss=r&variant=39266442150022)
 The paper used for light diffusion should be thin origami paper. Dark colors can make the screen unusable unless you have enough light coming from the backlight.<br /><br />
 Major shell trimming is required for the battery and charging board to fit.<br />
+I recommend using a Dremel to make a hole for the usb port. For the rest of the shell i used flush cutter to cut out the rest. When creating the hole also cut out a bit of plastic in front of the board so the cable can reach the port.<br />
+![alt text](https://github.com/LukeDitchWalker1/Ti-84-backlight/blob/main/Battery%20Cutout.jpg)<br />
+↑ This is a picture showing the cut outs made from a top down view.<br />
+![alt text](https://github.com/LukeDitchWalker1/Ti-84-backlight/blob/main/Battery%20Cutout.jpg)<br />
+↑ This is a picture showing the cut out for the usb port.<br />
